@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.127,D:\C\embarcadero\ritchi\cout.c=C:\Users\Денис\Documents\RAD Studio\Projects\File1.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.380,=C:\Users\Денис\Documents\RAD Studio\Projects\File1.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.270,D:\C\embarcadero\ritchi\Project3.cbproj=C:\Users\Денис\Documents\RAD Studio\Projects\Project3.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

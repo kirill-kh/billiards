@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.211,D:\C\embarcadero\ritchi\laba1\laba1_3.c=D:\C\embarcadero\ritchi\laba1\laba1_2.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.139,D:\C\embarcadero\ritchi\laba1\laba1_1.c=C:\Users\Денис\Documents\RAD Studio\Projects\File1.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.305,=C:\Users\Денис\Documents\RAD Studio\Projects\File1.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.071,D:\C\embarcadero\ritchi\laba1\PrLABA1_1.cbproj=C:\Users\Денис\Documents\RAD Studio\Projects\Project3.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.248,D:\C\embarcadero\ritchi\laba1\laba1_2.c=D:\C\embarcadero\ritchi\laba1\laba1_1.c</Transaction>
+  </Transactions>
+</BorlandProject>

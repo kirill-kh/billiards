@@ -1,0 +1,28 @@
+﻿Построение начато 28.05.2016 15:28:54.
+     1>Проект "D:\Studing\1 Курс\2 Семестр\Программирование\курсовая\Ден курсач\green\green\green.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\green.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\green.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Ball.cpp green.cpp vector3f.cpp
+         Ball.cpp
+     1>Ball.cpp(12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+     1>Ball.cpp(13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+     1>Ball.cpp(33): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>Ball.cpp(41): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>Ball.cpp(41): warning C4305: аргумент: усечение из "double" к "float"
+     1>Ball.cpp(46): warning C4305: аргумент: усечение из "double" к "float"
+         green.cpp
+         vector3f.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Studing\1 Курс\2 Семестр\Программирование\курсовая\Ден курсач\green\Release\green.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Studing\1 Курс\2 Семестр\Программирование\курсовая\Ден курсач\green\Release\green.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Studing\1 Курс\2 Семестр\Программирование\курсовая\Ден курсач\green\Release\green.lib" /MACHINE:X86 /SAFESEH Release\Ball.obj
+         Release\green.obj
+         Release\stdafx.obj
+         Release\vector3f.obj
+         Создание кода
+         Создание кода завершено
+         green.vcxproj -> D:\Studing\1 Курс\2 Семестр\Программирование\курсовая\Ден курсач\green\Release\green.exe
+     1>Построение проекта "D:\Studing\1 Курс\2 Семестр\Программирование\курсовая\Ден курсач\green\green\green.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:05.93
